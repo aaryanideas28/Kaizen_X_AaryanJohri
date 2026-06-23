@@ -14,5 +14,5 @@ An intelligent, context-aware RAG (Retrieval-Augmented Generation) chatbot built
 
 ### 1. Clone the Workspace
 ```bash
-git clone <your-repository-public-url>
-cd Kaizen_X
+git clone https://github.com/aaryanideas28/Kaizen_X_AaryanJohri.git
+cd Kaizen_X_AaryanJohri
