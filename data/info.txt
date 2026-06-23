@@ -1,0 +1,13 @@
+Project Name: KAIZEN 
+Project Objective: An Intelligent Multi-Agent Agentic Coding Assistant designed to automate production-grade software workflows.
+Core Architecture: Built using LangGraph for multi-agent state coordination and ChromaDB as a local persistent vector database.
+Current Development Phase: Phase 1 - Building the core Retrieval-Augmented Generation (RAG) context-awareness system.
+
+Student Developer Profile:
+Name: Aaryan Johri
+College: Veermata Jijabai Technological Institute (VJTI), Mumbai
+Branch: Computer Engineering
+Roll Number: 251070003
+
+Project Mentors: Neelay Joshi, Kavya, and Tanmay.
+Project Repository Status: Git integration active with tracking configurations hiding environment keys and local databases.
